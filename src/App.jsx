@@ -6,7 +6,7 @@ import AddCourse from "./components/admin-components/AddCourse"
 import Signin_appbar from "./components/admin-components/Signin_appbar"
 import Courses from "./components/admin-components/Courses"
 import Coursee from "./components/admin-components/Coursee"
-import UserAllCourses from 'D:\\my_codes\\react-project-practice\\src\\components\\user-components\\UserAllCourses';
+import UserAllCourses from './components/user-components/UserAllCourses';
 import SingleCourse from "./components/user-components/SingleCourse";
 import UserPurchasedCourses from "./components/user-components/UserPurchasedCourses"
 import Setting from "./components/user-components/Setting";
