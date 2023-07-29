@@ -8,8 +8,6 @@ import { Typography } from '@mui/material';
 import React from 'react';
 import { Navigate, useNavigate } from "react-router-dom";
 import AdminCourse from './AdminCourse'
-import UserCourse from
-'D:\\my_codes\\react-project-practice\\src\\components\\user-components\\UserCourse'
 import AdminAppbar from "./AdminAppbar";
 
 function Courses(){

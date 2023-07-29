@@ -7,8 +7,7 @@ import Checkbox from '@mui/material/Checkbox';
 import { Typography } from '@mui/material';
 import React from 'react';
 import { Navigate, useNavigate } from "react-router-dom";
-import UserCourse from
-'D:\\my_codes\\react-project-practice\\src\\components\\user-components\\UserCourse';
+import UserCourse from './UserCourse';
 import Appbar from "./Appbar";
 
 export default function UserAllCourses () {
