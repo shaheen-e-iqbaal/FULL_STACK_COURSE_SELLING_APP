@@ -9,7 +9,7 @@ import Coursee from "./components/admin-components/Coursee"
 import UserAllCourses from 'D:\\my_codes\\react-project-practice\\src\\components\\user-components\\UserAllCourses';
 import SingleCourse from "./components/user-components/SingleCourse";
 import UserPurchasedCourses from "./components/user-components/UserPurchasedCourses"
-import Setting from "D:\\my_codes\\react-project-practice\\src\\components\\user-components\\Setting";
+import Setting from "./components/user-components/Setting";
 import FaltuContent from "./components/user-components/FaltuContent"
 import CoursesBeforeSignin from "./components/user-components/CoursesBeforeSignin"
 import AdminAppbar from './components/admin-components/AdminAppbar'
